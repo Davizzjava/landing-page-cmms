@@ -25,15 +25,5 @@ O projeto foi construído utilizando as bases fundamentais do desenvolvimento we
 
 ## 📸 Visual do Projeto
 
-> **Dica para o Davi:** Tire um print da tela do site e coloque na pasta do projeto. Depois, substitua o caminho abaixo:
-![Preview da Landing Page](./screenshot.png)
-
+> https://davizzjava.github.io/landing-page-cmms/
 ---
-
-## 💻 Como Visualizar
-
-Como este é um projeto de Frontend estático, você pode visualizar diretamente no seu navegador:
-
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/Davizzjava/landing-page-cmms.git](https://github.com/Davizzjava/landing-page-cmms.git)
